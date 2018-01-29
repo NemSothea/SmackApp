@@ -50,6 +50,13 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		336DC7AD201F1E4C006005E1 /* Constance */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Constance;
+			sourceTree = "<group>";
+		};
 		33759DC7201EB3B000DB1F0C = {
 			isa = PBXGroup;
 			children = (
@@ -71,6 +78,7 @@
 		33759DD2201EB3B000DB1F0C /* SmackApp */ = {
 			isa = PBXGroup;
 			children = (
+				336DC7AD201F1E4C006005E1 /* Constance */,
 				33759DE5201EB86F00DB1F0C /* Supporting Files */,
 				33759DED201EC00A00DB1F0C /* Model */,
 				33759DEC201EC00300DB1F0C /* View */,
